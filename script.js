@@ -65,6 +65,12 @@ $(document).keypress(function (event) {
     $("p").text("");
     start();
 });
+$(".start-btn").click(() => {
+    started = true;
+    $("p").text("");
+    start();
+    $(".start-btn").css("display", "none");
+});
 
 card.click(function () {
     if ($(this).hasClass("closed")) {
