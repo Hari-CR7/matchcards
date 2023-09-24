@@ -6,4 +6,4 @@ installations:
 1.Download the project and open in an editor.
 2.Run the index.html file.
 
-Play the game now : https://hari-cr7.github.io/matchcards/
+Play the game now : https://hari18102003.github.io/matchcards/
